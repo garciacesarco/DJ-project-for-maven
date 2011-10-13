@@ -1,0 +1,16 @@
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/dj/DJNativeSwing/1.0/DJNativeSwing-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dj/DJNativeSwing-SWT/1.0/DJNativeSwing-SWT-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dj/DJNativeSwing-SWTAPI/1.0/DJNativeSwing-SWTAPI-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dj/DJNAtiveSwing-SWTCore/1.0/DJNAtiveSwing-SWTCore-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dj/jna/3.2.4/jna-3.2.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dj/jna/jna_WindowUtils/1.0/jna_WindowUtils-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dj/MozillaInterfaces/1.8.1.3/MozillaInterfaces-1.8.1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dj/swt/3.8.64/swt-3.8.64.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>
